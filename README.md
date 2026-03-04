@@ -43,18 +43,7 @@ PhishingSim is a Laravel-based phishing simulation platform for security awarene
 	php artisan serve
 	```
 
-### Email Setup
-Configure your mail settings in `.env` (Mailtrap is recommended for testing):
-```
-MAIL_MAILER=smtp
-MAIL_HOST=smtp.mailtrap.io
-MAIL_PORT=2525
-MAIL_USERNAME=your_username
-MAIL_PASSWORD=your_password
-MAIL_ENCRYPTION=null
-MAIL_FROM_ADDRESS=your@email.com
-MAIL_FROM_NAME="PhishingSim"
-```
+
 
 ## Usage
 
@@ -67,17 +56,3 @@ MAIL_FROM_NAME="PhishingSim"
 ## Security Notice
 **This project is for educational and authorized security testing only. Do not use for real phishing or illegal activity.**
 
-## License
-MIT
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
