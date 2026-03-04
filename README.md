@@ -3,16 +3,6 @@
 
 PhishingSim is a Laravel-based phishing simulation platform for security awareness training and research. It allows you to create, manage, and track phishing campaigns, send simulated phishing emails, and monitor user interactions.
 
-## Features
-
-- Create, edit, and delete phishing campaigns
-- Add target emails (one per line) for each campaign
-- Send simulated phishing emails to targets
-- Track clicks and credential submissions (logs with IP and user agent)
-- Dashboard with campaign statistics and analytics
-- Export logs and campaign reports as CSV
-- Admin/user roles and permissions
-- Admin panel for user management and settings
 
 ## Getting Started
 
@@ -43,7 +33,16 @@ PhishingSim is a Laravel-based phishing simulation platform for security awarene
 	php artisan serve
 	```
 
+## Features
 
+- Create, edit, and delete phishing campaigns
+- Add target emails for each campaign
+- Send simulated phishing emails to targets
+- Track clicks and credential submissions (logs with IP and user agent)
+- Dashboard with campaign statistics and analytics
+- Export logs and campaign reports as CSV
+- Admin/user roles and permissions
+- Admin panel for user management and settings
 
 ## Usage
 
