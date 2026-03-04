@@ -23,12 +23,11 @@ PhishingSim is a Laravel-based phishing simulation platform for security awarene
 	composer install
 	npm install
 	```
-3. Copy `.env.example` to `.env` and set your database and mail settings.
-4. Run migrations:
+3. Run migrations:
 	```
 	php artisan migrate
 	```
-5. Start the development server:
+4. Start the development server:
 	```
 	php artisan serve
 	```
