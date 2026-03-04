@@ -10,7 +10,7 @@ PhishingSim is a Laravel-based phishing simulation platform for security awarene
 - PHP 8.1+
 - Composer
 - Node.js & npm
-- MySQL or compatible database
+- MySQL 
 
 ### Installation
 1. Clone the repository:
