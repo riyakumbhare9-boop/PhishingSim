@@ -13,10 +13,15 @@ This tool is intended **strictly for educational and security awareness purposes
 ## Features
 
 • Create phishing simulation campaigns
+
 • Send phishing emails to target users
+
 • Capture submitted credentials from simulated phishing pages
+
 • Track user interactions and login attempts
+
 • View captured credentials and activity logs in a dashboard
+
 • Export captured data as CSV for analysis
 
 ---
@@ -44,7 +49,7 @@ Tools
 
 ---
 
-## Screenshots
+
 
 ### Create Phishing Campaign
 
